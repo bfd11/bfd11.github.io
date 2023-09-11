@@ -1,0 +1,1 @@
+import{aq as t,ar as o,as as m,at as u,au as g,av as l}from"./wallet-connection-49eea2a5.js";function p(){for(var r=[],a=0;a<arguments.length;a++)r[a]=arguments[a];var n=t(r),s=o(r,1/0),e=r;return e.length?e.length===1?u(e[0]):g(s)(l(e,n)):m}export{p as m};

@@ -1,0 +1,1 @@
+import{q as t}from"./index-40f6b818.js";import{C as o}from"./react-content-loader.es-0bfda9bf.js";const a=({backgroundColor:r="#313759",foregroundColor:e="#8585A6"})=>t(o,{width:64,height:16,viewBox:"0 0 64 16",backgroundColor:r,foregroundColor:e,children:t("rect",{x:"0",y:"0",width:"64",height:"16"})});export{a as S};
